@@ -1,0 +1,1 @@
+# interviewbit--array--minimum-lights-to-activate
